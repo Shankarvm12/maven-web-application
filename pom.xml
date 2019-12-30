@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://10.97.140.97:8081/#admin/repository/repositories:teju</url>
+	      <url>http://10.97.140.97:8081/repository/teju/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://10.97.140.97:8081/#admin/repository/repositories:teju/</url>
+	      <url>http://10.97.140.97:8081/repository/teju/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
